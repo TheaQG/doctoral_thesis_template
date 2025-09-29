@@ -1,0 +1,28 @@
+\glsdefs@newdocentry{GrIS}%
+{%
+name={\acronymfont {\glsentryshort {GrIS}}},%
+sort={GrIS},%
+type={main},%
+first={GrIS},%
+firstplural={GrISs},%
+text={GrIS},%
+plural={GrISs},%
+description={Greenland Ice Sheet},%
+descriptionplural={Greenland Ice Sheet},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Greenland Ice Sheet},%
+longplural={Greenland Ice Sheets},%
+short={GrIS},%
+shortplural={GrISs},%
+counter={page},%
+parent={},%
+%
+}%
+

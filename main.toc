@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Preface}{iii}{chapter*.1}%
+\contentsline {chapter}{List of Papers}{v}{chapter*.3}%
+\contentsline {chapter}{Contents}{vii}{section*.7}%
+\contentsline {chapter}{List of Figures}{ix}{section*.8}%
+\contentsline {chapter}{List of Tables}{xi}{section*.9}%
+\contentsline {chapter}{Acronyms}{xiii}{section*.9}%
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Figures and Tables}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Summary of Papers}{2}{section.1.2}%
+\contentsline {chapter}{Papers}{6}{section*.11}%
+\contentsline {chapter}{\chapternumberline {I}The First Paper}{7}{chapter.papter.1}%
+\contentsline {section}{\numberline {I.1}Introduction}{7}{section.papter.1.1}%
+\contentsline {paragraph}{Authors' addresses}{9}{section*.13}%
+\contentsline {chapter}{\chapternumberline {II}A4 paper}{11}{chapter.papter.2}%
+\contentsline {chapter}{\chapternumberline {III}The Third Paper}{15}{chapter.papter.3}%
+\contentsline {section}{\numberline {III.1}First Section}{15}{section.papter.3.1}%
+\contentsline {section}{\numberline {III.A}First Subappendix}{16}{section.papter.3.A}%
+\contentsline {chapter}{Appendices}{17}{section*.14}%
+\contentsfinish 
